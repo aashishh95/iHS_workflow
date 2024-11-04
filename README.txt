@@ -22,6 +22,10 @@ Each map file serves a distinct purpose, so please inspect both files to underst
 Step 4: Prepare Ancestral Allele Files
 To recode for ancestral alleles, this workflow uses a Python script (recode.py) adapted from the Obed project. You can generate ancestral allele files for both hg18 and hg38 references, based on your specific data needs.
 
+
+Step 5: Check bash_iHS_workflow.sh file. This shows how to pass argument to run the iHS_wrokflow.py script.
+
+
 Additional Resources
 Feel free to reach out for support or questions regarding this workflow:
 
